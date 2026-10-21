@@ -1,1 +1,2 @@
-# PowerBi_CampusEventsOverview_Dashboard
+I have created this Campus Events Overview Dashboard let the Student Activities Team understand event registrations, student participation, attendance, and event popularity. This time i have also created three Buttons which can be seen in action by using Ctrl+click in Power BI Desktop or in Reading view.
+<img width="1321" height="735" alt="Screenshot 2026-10-20 232922" src="https://github.com/user-attachments/assets/a94a002c-a63a-40e3-9050-d19b97f0eb9c" />
